@@ -1,3 +1,4 @@
+appmews.com
 $ touch CNAME
 $ echo 'appmews.com'> CNAME 
-appmews.com
+
