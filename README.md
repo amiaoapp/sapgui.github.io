@@ -6,7 +6,6 @@
 
 ![Snipaste_2019-02-12_09-26-56.jpg][1]
 站内下载  ：[gui750_09_1-80001468.zip][2]
-
 百度云盘  ：https://www.appmews.com/go/newpatch/
 onedrive ：https://www.appmews.com/go/patchnew/  
 （如果没有百度云盘会员下载会很慢，建议使用站内下载和onedrive下载）
