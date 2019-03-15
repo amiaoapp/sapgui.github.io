@@ -1,14 +1,18 @@
 # APP喵
 
+好吧侵权警告，抱歉各位
+
+
+
+
+
+
+
 **2019年02月04日官方更新 最新GUI750 09级热修复补丁 gui750_9_1-80001468.exe**
 （同步官网）
 -----------------------------------------
 
-![Snipaste_2019-02-12_09-26-56.jpg][1]
-站内下载  ：[gui750_09_1-80001468.zip][2]
-百度云盘  ：https://www.appmews.com/go/newpatch/
-onedrive ：https://www.appmews.com/go/patchnew/  
-（如果没有百度云盘会员下载会很慢，建议使用站内下载和onedrive下载）
+
 
 
 ----------
@@ -18,10 +22,7 @@ onedrive ：https://www.appmews.com/go/patchnew/
 
 **主安装程序**
 
-SAP GUI 750 Onedrive 
-链接暂时失效
-SAP GUI 740 Onedrive 
-链接暂时失效
+
 
 SAP GUI 750 FOR MAC
 链接：https://pan.baidu.com/s/1aeqvzpZJnp7AzlkBvWBQmA  密码：ua68 
@@ -31,8 +32,11 @@ SAP GUI 750 FOR MAC
 
 
 SAP GUI 750  :链接：https://www.appmews.com/go/gui750/ 密码：32ew
+
 SAP GUI 740  :链接：https://www.appmews.com/go/gui740/ 密码：xevg
+
 SAP GUI 730  :链接：https://www.appmews.com/go/gui730/ 密码：c1t6
+
 SAP GUI 720  :链接：https://www.appmews.com/go/gui720/ 密码：j05g
 
 
@@ -43,7 +47,9 @@ SAP GUI 720  :链接：https://www.appmews.com/go/gui720/ 密码：j05g
 ----------
 补丁
 750补丁  ：https://www.appmews.com/go/patch750/
+
 740补丁  ：https://www.appmews.com/go/patch740/
+
 730补丁  ：https://www.appmews.com/go/patch730/
 
 
