@@ -1,21 +1,19 @@
 # APP喵
 
-好吧侵权警告，抱歉各位
-
-
-
+发现新的可用下载地址
+----------
+http://itpe.me/
 
 
 
 如果你有S账号（带下载权限）可以选择SAP官方下载渠道
 https://launchpad.support.sap.com/#/softwarecenter
-
 https://support.sap.com/en/product/connectors/jco.html
 
 ----------
 
 
-***下面补充一下安装方法，安装方法。。。***
+下面补充一下安装方法，安装方法。。。
 GUI 750安装手册
 [750安装手册.docx][4]
 750新界面不适应，界面修改
@@ -23,7 +21,7 @@ GUI 750安装手册
 
 再不会，那您需要我帮您百度吗？
 https://jingyan.baidu.com/article/f0e83a257c8de422e59101de.html
-----------
+
 
 
 **> 本站点提供最新SAP GUI补丁，获取最新补丁下载记得 Ctrl+D 收藏本站**
