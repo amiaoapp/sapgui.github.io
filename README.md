@@ -37,7 +37,7 @@ https://jingyan.baidu.com/article/f0e83a257c8de422e59101de.html
 
 
 
-**> 本站点提供最新SAP GUI补丁，获取最新补丁下载记得 Ctrl+D 收藏本站**
+**> 本站点提供最新SAP GUI补丁，获取最新补丁下载记得 Ctrl+D 收藏www.appmews.com**
 
 ----------
 
