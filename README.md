@@ -38,6 +38,9 @@ https://jingyan.baidu.com/article/f0e83a257c8de422e59101de.html
 
 
 **> 本站点提供最新SAP GUI补丁，获取最新补丁下载记得 Ctrl+D 收藏本站**
+
+----------
+
 关注我的个人公众号appmew获取(扫下面的二维码)最新补丁更新公告，如果度盘链接失效，可以留言回复或者公众号回复
         <table><tr> 
     <td><img alt="" src="https://ws1.sinaimg.cn/large/007jJ55vly1fvfw8usuulj309r09rgm2.jpg" width="250" hegiht="150" align=center /></td> 
